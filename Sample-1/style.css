@@ -1,0 +1,55 @@
+/* ----index Start---- */
+div.main {
+    height: 200px;
+    width: 200px;
+}
+button {
+    width: 100%;
+    background-color: green;
+    border: none;
+    color: antiquewhite;
+    padding: 10px 20px;
+    margin-top: 20px;
+    display: block;
+}
+
+a {
+    
+    text-decoration: none;
+}
+/* ----index End---- */
+
+/* ----CSS Color Vocab Start---- */
+.color-title {font-weight: normal;}
+#red {color: red;}
+#blue {color: blue;}
+#orange {color: orange;}
+#green {color: green;}
+#yellow {color: yellow;}
+img {height: 200px; width: 200px;}
+/* ----CSS Color Vocab End---- */
+
+/* ----CSS Cascade Start---- */
+.box {
+    background-color: blue;
+    padding: 10px;
+  }
+  
+  p {
+    color: yellow;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #outer-box {
+    background-color: purple;
+  }
+  
+  .inner-box {
+    background-color: red;
+  }
+  
+  .white-text {
+    color: white;
+  }
+/* ----CSS Cascade End---- */
